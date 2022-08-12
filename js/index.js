@@ -36,7 +36,7 @@ function isCollide(snake) {
         return true;
     }
         
-   
+   return false;
 }
 
 function gameEngine(){
